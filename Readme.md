@@ -2,6 +2,7 @@
 
 Refer here: https://www.michael-whelan.net/rules-design-pattern/
 
+```
 public class DiscountCalculator
 {
 public decimal CalculateDiscountPercentage(Customer customer)
@@ -60,3 +61,4 @@ discount = .05m;
     }
 
 }
+```
